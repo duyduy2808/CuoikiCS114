@@ -9,7 +9,7 @@
 
 ### Giảng viên
 * PGS.TS Lê Đình Duy - duyld@uit.edu.vn
-* Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
+* TS Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 
 
 ### Thành viên nhóm
